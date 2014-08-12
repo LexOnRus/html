@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+  <widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id = "com.test.www"
+    versionCode="10"
+    version = "1.0.0">
+  <name>test</name>
+  <description>
+    test
+  </description>
+  <author href="test" email="test">
+    test
+  </author>
+  <preference name="fullscreen" value="true" />
+  <icon src="icon" />
+  <gap:splash src="splash" />
+</widget>
